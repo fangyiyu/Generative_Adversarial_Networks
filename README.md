@@ -11,4 +11,5 @@ Notebooks from the Generative Adversarial Networks Specialization created by dee
 7. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)  
 8. [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)  
 9. [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)  
-10. 
+10. [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)  
+11. 
