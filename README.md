@@ -11,4 +11,5 @@ Notebooks from the Generative Adversarial Networks Specialization created by dee
 7. [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)  
 8. [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)  
 9. [A Note on the Inception Score](https://arxiv.org/pdf/1801.01973.pdf)  
-10. 
+10. [Mitigating Unwanted Biases with Adversarial Learning](http://m-mitchell.com/papers/Adversarial_Bias_Mitigation.pdf)  
+11. 
