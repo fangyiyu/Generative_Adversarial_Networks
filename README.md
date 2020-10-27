@@ -12,4 +12,6 @@ Notebooks from the Generative Adversarial Networks Specialization created by dee
 8. [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)  
 9. [A Note on the Inception Score](https://arxiv.org/pdf/1801.01973.pdf)  
 10. [Mitigating Unwanted Biases with Adversarial Learning](http://m-mitchell.com/papers/Adversarial_Bias_Mitigation.pdf)  
-11. 
+11. [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05328.pdf)  
+12. [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf)  
+13 [
