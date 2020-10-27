@@ -13,4 +13,5 @@ Notebooks from the Generative Adversarial Networks Specialization created by dee
 9. [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)  
 10. [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)  
 11. [Interpreting the Latent Space of GANs for Semantic Face Editing](https://arxiv.org/pdf/1907.10786.pdf)  
-12. 
+12. [A Note on the Inception Score](https://arxiv.org/pdf/1801.01973.pdf)  
+13. 
