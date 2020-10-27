@@ -1,4 +1,4 @@
-# GANS
+# GANs
 Notebooks from the Generative Adversarial Networks Specialization created by deeplearning.ai
 
 # Resources
