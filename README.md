@@ -15,4 +15,7 @@ Notebooks from the Generative Adversarial Networks Specialization created by dee
 11. [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05328.pdf)  
 12. [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf)  
 13. [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)  
-14. 
+14. [Image-to-Image Translation with Conditional Adversarial Networks(https://arxiv.org/pdf/1611.07004.pdf)  
+15. [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)  
+16. [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802.pdf)  
+17. [
