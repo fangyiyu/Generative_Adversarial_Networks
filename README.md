@@ -1,5 +1,5 @@
 # GANs
-Notebooks from the Generative Adversarial Networks Specialization created by deeplearning.ai
+This repo contains the assignments of the Generative Adversarial Networks Specialization created by deeplearning.ai that I finished.
 
 # Resources
 1. [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)  
